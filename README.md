@@ -38,7 +38,7 @@ pause
 
 <br>
 
-## Final Steps
+## The Final Steps
 
 <br>
 
