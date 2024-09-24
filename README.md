@@ -5,7 +5,6 @@
 
 ## Requirements
 <br>
-<br>
 ● install Nativefier
 [Nativefier](https://github.com/nativefier/nativefier)
 
