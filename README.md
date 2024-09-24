@@ -12,7 +12,8 @@
 
 ● Git
 
-## How to build
+## How to Build
+<br>
 
 1. ```npm install -g nativefier```
 
