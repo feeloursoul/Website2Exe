@@ -45,8 +45,6 @@ pause
 
 <br>
 
-● firstly, Run bat file.
-
 ● popup command prompt.
 
 ● Enter favorite website URLs.
