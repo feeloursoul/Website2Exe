@@ -8,19 +8,14 @@
 
 ## Requirements
 
-<br>
-
 ● Nativefier
 [Nativefier](https://github.com/nativefier/nativefier)
 
 ● Node.js
 
+<br>
+
 ## Let's get started
-
-<br>
-
-<br>
-
 
 1. npm install -g nativefier
 
