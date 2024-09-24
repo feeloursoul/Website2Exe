@@ -12,7 +12,7 @@
 
 ● Git
 
-## Let's get started
+## How to build
 
 1. ```npm install -g nativefier```
 
@@ -38,7 +38,7 @@ pause
 
 <br>
 
-## The Final Steps
+## Step by step
 
 <br>
 
