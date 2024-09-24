@@ -2,12 +2,16 @@
 
 ## Requirements
 
+<br>
+
 ● Nativefier
 [Nativefier](https://github.com/nativefier/nativefier)
 
 ● Node.js
 
-### Let's get started!
+## Let's get started
+
+<br>
 
 1. npm install -g nativefier
 
@@ -15,6 +19,8 @@
 
 3. Run bat.file
 
+<br>
+<br>
 <br>
 
 ▶ create_app.bat file code is below.
@@ -31,7 +37,9 @@ pause
 ```
 <br>
 
-#### Usage
+#### How to build
+
+<br>
 
 ● firstly, Run bat file and display command prompt.
 
@@ -41,7 +49,12 @@ pause
 
 ● Exit GUI.
 
+<br>
+
 #### Resources
+
+<br>
+
 
 ● https://github.com/nativefier
 
