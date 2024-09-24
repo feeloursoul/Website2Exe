@@ -6,8 +6,7 @@
 ## Requirements
 <br>
 
-● install Nativefier
-[Nativefier](https://github.com/nativefier/nativefier)
+● install [Nativefier](https://github.com/nativefier/nativefier)
 
 ● Node.js
 
