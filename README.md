@@ -5,20 +5,23 @@
 
 ## Requirements
 
-● Nativefier
+● install Nativefier
 [Nativefier](https://github.com/nativefier/nativefier)
 
 ● Node.js
+
+● Git
 
 ## Let's get started
 
 1. npm install -g nativefier
 
-2. Downloading create_app.bat file from My GitHub Repository.
+2. download create_app.bat file from my GitHub repository.
 
 3. Run bat.file
 
 <br>
+
 ▶ create_app.bat file code is below.
 
 <br>
@@ -35,13 +38,15 @@ pause
 
 <br>
 
-## Introduction
+## Final Steps
 
 <br>
 
 <br>
 
-● firstly, Run bat file and display command prompt.
+● firstly, Run bat file.
+
+● popup command prompt.
 
 ● Enter favorite website URLs.
 
@@ -63,6 +68,8 @@ pause
 
 ● https://github.com/nthnn/Batch2Exe
 
+<br>
 
+<br>
 
 
