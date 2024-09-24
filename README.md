@@ -15,7 +15,7 @@
 
 ## Let's get started
 
-1. npm install -g nativefier
+1. ```npm install -g nativefier```
 
 2. download create_app.bat file from my GitHub repository.
 
