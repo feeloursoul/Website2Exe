@@ -1,4 +1,4 @@
-# Turn Any Webpage into Windows Desktop applications.
+# Turn any webpage into windows desktop applications.
 
 <br>
 <br>
