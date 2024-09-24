@@ -49,9 +49,9 @@ pause
 
 ● Enter favorite website URLs.
 
-● input Your application Name what you want.
+● input your application name that you want.
 
-● Exit GUI.
+● exit GUI.
 
 ● Done.
 
