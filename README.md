@@ -7,7 +7,7 @@
 
 ● Node.js
 
-### How to Build
+### Let's get started!
 
 1. npm install -g nativefier
 
@@ -15,7 +15,9 @@
 
 3. Run bat.file
 
-Below is create_app.bat file code.
+<br>
+
+▶ create_app.bat file code is below.
 
 <br>
 
@@ -29,9 +31,13 @@ pause
 ```
 <br>
 
-● Firstly, Enter Website URLs.
+#### Usage
 
-● Input Your application Name what you want.
+● firstly, Run bat file and display command prompt.
+
+● Enter favorite website URLs.
+
+● input Your application Name what you want.
 
 ● Exit GUI.
 
