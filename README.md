@@ -53,6 +53,8 @@ pause
 
 ● Exit GUI.
 
+● Done.
+
 <br>
 
 <br>
