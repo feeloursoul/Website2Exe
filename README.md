@@ -2,9 +2,6 @@
 
 <br>
 <br>
-<br>
-<br>
-
 
 ## Requirements
 
@@ -12,8 +9,6 @@
 [Nativefier](https://github.com/nativefier/nativefier)
 
 ● Node.js
-
-<br>
 
 ## Let's get started
 
